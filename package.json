@@ -1,0 +1,19 @@
+{
+  "name": "gateway",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node-fetch": "^2.6.2",
+    "@types/ws": "^8.5.4",
+    "node-fetch": "^2.6.7",
+    "reconnecting-websocket": "^4.4.0",
+    "ws": "^8.12.0"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "CommonJS",
+    "strict": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "strictFunctionTypes": true,
+    "strictPropertyInitialization": false,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "allowJs": true,
+    "sourceMap": false,
+    "noImplicitAny": true,
+    "outDir": "./build"
+  }
+}
